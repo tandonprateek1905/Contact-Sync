@@ -36,10 +36,7 @@ import com.salesforce.androidsdk.ui.SalesforceR;
 public class SalesforceRImpl extends SalesforceR {
 	/* Login */
 	
-	// Trying to commit to git now
-	// Trying to commit to git now
-	// Trying to commit to git now
-	// Trying to commit to git now
+	
 	public int stringAccountType() { return R.string.account_type; }
 	public int layoutLogin() {return R.layout.sf__login; }
 	public int idLoginWebView() {return R.id.sf__oauth_webview; }
